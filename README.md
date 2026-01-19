@@ -6,6 +6,12 @@ I'm a **Computer Information Systems** major at Wayne State College with a deep 
 
 ---
 
+### 🌐 Why I chose my Major and Minor
+
+I chose Networking and Cyber-Security as my major because I have always been interested in digital security and how information is sent over the ether. I also have a ,minor in computer science as i have a fair amount of coding experience from high school and wanted to broaden my horizons in it, as I do enjoy coding.
+
+---
+
 ### 💻 Technical Expertise
 
 * **Languages:** Python, C++, Java, SQL, HTML, CSS 
