@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 * **Key Learning Concepts:** Working-Storage data definition, numeric editing (ZZ,ZZZ.99), and procedural logic using PERFORM UNTIL loops for compounding interest.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** ![Assignment 1](assets/cobol1.png)
+* **Thumbnail Screenshot:** ![Assignment 1](Assets/CALC2000_Output.png)
 * **Repository Link:** 🔗 [View CobolAssignment1](https://github.com/TJoubert004/CobolAssignment1)
 
 [⬆ Back to TOC](#table-of-contents)
