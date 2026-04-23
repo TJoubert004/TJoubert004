@@ -5,14 +5,15 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 ---
 
 ## 📁 Table of Contents
-| Repository | Primary Tech | Category |
-| :--- | :--- | :--- |
-| [CobolAssignment1](#cobol-assignment-1) | COBOL/JCL | CIS352 Intro to Enterprise Computing |
-| [CobolAssignment2](#cobol-assignment-2) | COBOL/JCL | CIS352 Intro to Enterprise Computing |
-| [CobolAssignment3](#cobol-assignment-3) | COBOL/JCL | CIS352 Intro to Enterprise Computing |
-| [CobolAssignment4](#cobol-assignment-4) | COBOL/JCL | CIS352 Intro to Enterprise Computing |
-| [CobolAssignment5](#cobol-assignment-5) | COBOL/JCL | CIS352 Intro to Enterprise Computing |
-| [CobolAssignment6](#cobol-assignment-6) | COBOL/JCL | CIS352 Intro to Enterprise Computing |
+
+| Repo Summary | Description | Primary Tech | Category | Repo Link |
+| :--- | :--- | :--- | :--- | :--- |
+| [CobolAssignment1](#cobol-assignment-1) | Future Value Investment Calculator | COBOL/JCL | Intro to Enterprise Computing | [CALC2000](https://github.com/TJoubert004/CobolAssignment1) |
+| [CobolAssignment2](#cobol-assignment-2) | Multi-Customer Utility Bill Calculator | COBOL/JCL | Intro to Enterprise Computing | [UTIL2000](https://github.com/TJoubert004/CobolAssignment2) |
+| [CobolAssignment3](#cobol-assignment-3) | YTD Sales Reporting with Variance Analysis | COBOL/JCL | Intro to Enterprise Computing | [RPT2000](https://github.com/TJoubert004/CobolAssignment3) |
+| [CobolAssignment4](#cobol-assignment-4) | Hierarchical Reporting with Control Breaks | COBOL/JCL | Intro to Enterprise Computing | [RPT3000](https://github.com/TJoubert004/CobolAssignment4) |
+| [CobolAssignment5](#cobol-assignment-5) | Multi-Level SalesRep and Branch Totals | COBOL/JCL | Intro to Enterprise Computing | [RPT5000](https://github.com/TJoubert004/CobolAssignment5) |
+| [CobolAssignment6](#cobol-assignment-6) | Advanced Reporting with Table Lookups | COBOL/JCL | Intro to Enterprise Computing | [RPT6000](https://github.com/TJoubert004/CobolAssignment6) |
 
 ---
 
