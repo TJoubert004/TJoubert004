@@ -24,7 +24,9 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 * **Key Learning Concepts:** Working-Storage data definition, numeric editing (ZZ,ZZZ.99), and procedural logic using PERFORM UNTIL loops for compounding interest.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** ![Assignment 1](Assets/CALC2000_Output.png)
+* **Thumbnail Screenshot:** 
+
+  ![Assignment 1](Assets/CALC2000_Output.png)
 * **Repository Link:** 🔗 [View CobolAssignment1](https://github.com/TJoubert004/CobolAssignment1)
 
 [⬆ Back to TOC](#table-of-contents)
@@ -37,7 +39,9 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 * **Key Learning Concepts:** Using the COMPUTE statement with the ROUNDED phrase for financial accuracy and modular procedural logic to reuse billing routines.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** ![Assignment 2](Assets/UTIL2000_Output.png)
+* **Thumbnail Screenshot:** 
+
+  ![Assignment 2](Assets/UTIL2000_Output.png)
 * **Repository Link:** 🔗 [View CobolAssignment2](https://github.com/TJoubert004/CobolAssignment2)
 
 [⬆ Back to TOC](#table-of-contents)
@@ -50,9 +54,58 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 * **Key Learning Concepts:** Comparative financial analytics (calculating variance between years), zero-division guarding, and advanced data editing for negative values.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** ![Assignment 3](Assets/RPT2000_Output.png)
+* **Thumbnail Screenshot:** 
+
+  ![Assignment 3](Assets/RPT2000_Output.png)
 * **Repository Link:** 🔗 [View CobolAssignment3](https://github.com/TJoubert004/CobolAssignment3)
 
 [⬆ Back to TOC](#table-of-contents)
 
 ---
+
+### Cobol Assignment 4
+* **Short Summary:** RPT3000, an evolution of previous reporting tools that introduces Control Break Logic to generate structured reports with automated branch-level subtotals.
+* **Technologies Used:** COBOL, JCL.
+* **Key Learning Concepts:** Group suppression (printing branch numbers only on change), hierarchical accumulators (branch vs. grand totals), and buffer monitoring for state changes.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+* **Thumbnail Screenshot:** 
+
+  ![Assignment 4](Assets/RPT3000_Output.png)
+* **Repository Link:** 🔗 [View CobolAssignment4](https://github.com/TJoubert004/CobolAssignment4)
+
+[⬆ Back to TOC](#table-of-contents)
+
+---
+
+### Cobol Assignment 5
+* **Short Summary:** RPT5000, a high-level reporting utility utilizing complex evaluation logic to manage multi-level control breaks for both Branch and Sales Representative totals.
+* **Technologies Used:** COBOL, JCL.
+* **Key Learning Concepts:** EVALUATE TRUE state management, 88-level condition names for switch management, and hierarchical summation logic.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+* **Thumbnail Screenshot:** 
+
+  ![Assignment 5](Assets/RPT5000_Output.png)
+* **Repository Link:** 🔗 [View CobolAssignment5](https://github.com/TJoubert004/CobolAssignment5)
+
+[⬆ Back to TOC](#table-of-contents)
+
+---
+
+### Cobol Assignment 6
+* **Short Summary:** RPT6000, an advanced application that integrates external data via table lookups to dynamically match Sales Representative IDs with their names.
+* **Technologies Used:** COBOL, JCL, VSAM.
+* **Key Learning Concepts:** SEARCH and INDEXED BY table processing, COPY members for modularity, and memory optimization using PACKED-DECIMAL (COMP-3) and REDEFINES.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+* **Thumbnail Screenshot:** 
+
+  ![Assignment 6](Assets/RPT6000_Output.png)
+* **Repository Link:** 🔗 [View CobolAssignment6](https://github.com/TJoubert004/CobolAssignment6)
+
+[⬆ Back to TOC](#table-of-contents)
+
+---
+
+### Cobol Assignment 7
