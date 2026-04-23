@@ -32,3 +32,27 @@ Welcome to my GitHub portfolio repository! I am currently a student at **Wayne S
 ---
 
 ### Cobol Assignment 2
+* **Short Summary:** UTIL2000, a multi-customer utility bill calculator that performs tiered billing calculations ($0.12, $0.15, and $0.18 per kWh tiers) for multiple predefined customers.
+* **Technologies Used:** COBOL, JCL.
+* **Key Learning Concepts:** Using the COMPUTE statement with the ROUNDED phrase for financial accuracy and modular procedural logic to reuse billing routines.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+* **Thumbnail Screenshot:** ![Assignment 2](Assets/UTIL2000_Output.png)
+* **Repository Link:** 🔗 [View CobolAssignment2](https://github.com/TJoubert004/CobolAssignment2)
+
+[⬆ Back to TOC](#table-of-contents)
+
+---
+
+### Cobol Assignment 3
+* **Short Summary:** RPT2000, an enhanced reporting tool that reads financial records from a master input file (CUSTMAST) to generate a formatted Year-To-Date (YTD) Sales Report.
+* **Technologies Used:** COBOL, JCL.
+* **Key Learning Concepts:** Comparative financial analytics (calculating variance between years), zero-division guarding, and advanced data editing for negative values.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+* **Thumbnail Screenshot:** ![Assignment 3](Assets/RPT2000_Output.png)
+* **Repository Link:** 🔗 [View CobolAssignment3](https://github.com/TJoubert004/CobolAssignment3)
+
+[⬆ Back to TOC](#table-of-contents)
+
+---
